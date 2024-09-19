@@ -32,6 +32,13 @@ This is a simple user management API built with Express.js, featuring user regis
 
 ### Installation
 1. Clone the repository
+2. Direct yourself into the folder
+3. Install the packages
+4. Run the tests
+5. Start the application
    ```bash
    git clone git@github.com:j-pohahau5/user-management-api.git
    cd user-management-api
+   npm i
+   npm test
+   npm start
